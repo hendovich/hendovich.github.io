@@ -26,15 +26,15 @@ a   {
 }
 #left{
 	float: left;
-	width: 330px;
 	height: 300px;
 	font-size: 25px;
+	width: 330px;
 }
 #middle{
 	float: center
-	width:	330px;
 	height: 300px;
 	font-size: 25px;
+	width: 330px;
 }
 #right{
 	float: right;
