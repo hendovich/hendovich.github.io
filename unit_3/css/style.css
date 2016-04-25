@@ -27,6 +27,7 @@ a   {
 #left{
 	float: left;
 	width: 330px;
+	font-size: 25px;
 }
 #middle{
 	float: center
