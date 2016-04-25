@@ -25,19 +25,19 @@ a   {
 	font-style: italic;
 }
 #left{
-	float: left;
+	text-align: left;
 	width: 330px;
 	height: 300px;
 	font-size: 25px;
 }
 #middle{
-	float: center
+	text-align: center
 	width:	330px;
 	height: 300px;
 	font-size: 25px;
 }
 #right{
-	float: right;
+	text-align: right;
 	width: 330px;
 	height: 300px;
 	font-size: 25px;
