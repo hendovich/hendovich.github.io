@@ -37,6 +37,12 @@ a   {
 	width: 330px;
 	padding: 10px;
 }
+#right{
+	float: right;
+	font-size: 25px;
+	width: 330px;
+	padding: 10px;
+}
 #footer{
 	clear: both;
 }
