@@ -32,9 +32,11 @@ a   {
 #middle{
 	float: center
 	width:	330px;
+	font-size: 25px;
 }
 #right{
 	float: right;
 	width: 330px;
+	font-size: 25px;
 }
 * { text-rendering: optimizeLegibility; }
