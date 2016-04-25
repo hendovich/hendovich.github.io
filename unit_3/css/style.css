@@ -28,19 +28,14 @@ a   {
 	float: left;
 	height: 300px;
 	font-size: 25px;
-	width: 330px;
+	width: 100px;
+	padding: 5px;
 }
 #middle{
-	float: inherit;
-	height: 300px;
+	float: left;
 	font-size: 25px;
 	width: 330px;
-}
-#right{
-	float: right;
-	width: 330px;
-	height: 300px;
-	font-size: 25px;
+	padding: 10px;
 }
 #footer{
 	clear: both;
