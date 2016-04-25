@@ -3,7 +3,6 @@ body	{
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 75px;
-	padding: 10px;
 }
 h1	{
 	color: rgba(4,104,232,1);
@@ -39,7 +38,7 @@ a   {
 	padding: 10px;
 }
 #right{
-	float: right;
+	float: left;
 	font-size: 25px;
 	text-align: justify;
 	width: 330px;
