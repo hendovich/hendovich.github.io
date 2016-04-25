@@ -42,4 +42,7 @@ a   {
 	height: 300px;
 	font-size: 25px;
 }
+#footer{
+	clear: both;
+}
 * { text-rendering: optimizeLegibility; }
