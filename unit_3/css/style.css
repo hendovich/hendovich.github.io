@@ -24,4 +24,16 @@ a   {
 #slogan{
 	font-style: italic;
 }
+#left{
+	float: left;
+	width: 330px;
+}
+#middle{
+	float: center
+	width:	330px;
+}
+#right{
+	float: right;
+	width: 330px;
+}
 * { text-rendering: optimizeLegibility; }
