@@ -27,16 +27,19 @@ a   {
 #left{
 	float: left;
 	width: 330px;
+	height: 300px;
 	font-size: 25px;
 }
 #middle{
 	float: center
 	width:	330px;
+	height: 300px;
 	font-size: 25px;
 }
 #right{
 	float: right;
 	width: 330px;
+	height: 300px;
 	font-size: 25px;
 }
 * { text-rendering: optimizeLegibility; }
