@@ -39,13 +39,13 @@ a   {
 #middle{
 	float: left;
 	font-size: 25px;
-	width: 33%;
+	width: 30%;
 }
 #right{
 	float: left;
 	font-size: 20px;
 	text-align: justify;
-	width: 33%;
+	width: 30%;
 	padding-left: 2em;
 }
 #footer{
