@@ -34,18 +34,18 @@ a   {
 	float: left;
 	height: 300px;
 	font-size: 25px;
-	width: 33.3%;
+	width: 33%;
 }
 #middle{
 	float: left;
 	font-size: 25px;
-	width: 33.3%;
+	width: 33%;
 }
 #right{
 	float: left;
 	font-size: 20px;
 	text-align: justify;
-	width: 33.3%;
+	width: 33%;
 }
 #footer{
 	clear: both;
