@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Sanchez);
+
+body	{
+	background: rgba(243,255,28,1);
+	text-align: center;
+	font-family: 'Sanchez', serif;
+	font-size: 75px;
+}
+h1	{
+	color: rgba(4,104,232,1);
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+}
+p	{
+	font-size: 25px;
+	font-weight: 600;
+	font-family: 'Sanchez', serif;
+}
+ul	{
+	font-size: 18px;
+	text-align: left;
+	font-family: 'Sanchez', serif;
+}
+a   {
+	font-size: 25px;
+	font-family: 'Sanchez', serif;
+}
+#slogan{
+	font-style: italic;
+}
+#left{
+	float: left;
+	height: 300px;
+	font-size: 25px;
+	width: 33.3%;
+	padding: 5px;
+}
+#middle{
+	float: left;
+	font-size: 25px;
+	width: 33.3%;
+	padding: 10px;
+}
+#right{
+	float: left;
+	font-size: 20px;
+	text-align: justify;
+	width: 33.3%;
+	padding-left: 70px;
+}
+#footer{
+	clear: both;
+}
+* { text-rendering: optimizeLegibility; }
