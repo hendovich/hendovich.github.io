@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Sanchez);
+
+body	{
+	background: rgba(243,255,28,1);
+	text-align: center;
+	font-family: 'Sanchez', serif;
+	font-size: 75px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20 px;
+	font-size: 1.8em;
+  	float: left;
+}
+
+nav a {
+	text-decoration: none;
+  	color: #000000;
+  	margin: 1.8em;
+  	display: inline-block;
+}
+
+h1	{
+	color: rgba(4,104,232,1);
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+}
+
+p	{
+	font-size: 25px;
+	font-weight: 600;
+	font-family: 'Sanchez', serif;
+}
+
+ul	{
+	font-size: 18px;
+	text-align: left;
+	font-family: 'Sanchez', serif;
+}
+
+a   {
+	font-size: 25px;
+	font-family: 'Sanchez', serif;
+}
+
+footer {
+	clear: both;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#three_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left_column {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	height: 300px;
+	font-size: 25px;
+	width: 30%;
+}
+#middle_column {
+	float: left;
+	font-size: 25px;
+	width: 30%;
+}
+#right{
+	background-color: pink;
+	border: 1px black solid;
+	float: left;
+	font-size: 20px;
+	text-align: justify;
+	width: 30%;
+	padding-left: 2em;
+	margin-bottom: 200px;
+}
+
+.clearfix: after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+* { text-rendering: optimizeLegibility; }
