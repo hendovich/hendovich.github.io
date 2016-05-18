@@ -82,13 +82,13 @@ footer {
 	float: left;
 	height: 300px;
 	font-size: 25px;
-	width: 30%;
+	width: 33%;
 }
 #middle_column {
 	background-color: green;
 	float: left;
 	font-size: 25px;
-	width: 30%;
+	width: 33%;
 }
 #right{
 	background-color: blue;
@@ -96,7 +96,7 @@ footer {
 	float: left;
 	font-size: 20px;
 	text-align: justify;
-	width: 30%;
+	width: 33%;
 	margin-bottom: 200px;
 }
 
