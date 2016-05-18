@@ -53,6 +53,7 @@ ul	{
 	font-size: 18px;
 	text-align: left;
 	font-family: 'Sanchez', serif;
+	list-style: inherit;
 }
 
 a   {
