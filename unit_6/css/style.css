@@ -71,7 +71,7 @@ footer {
 }
 
 #three_column {
-	background-color: #FFB7CF;
+	background-color: red;
 	border: 1px black solid;
 }
 
@@ -85,12 +85,13 @@ footer {
 	width: 30%;
 }
 #middle_column {
+	background-color: green;
 	float: left;
 	font-size: 25px;
 	width: 30%;
 }
 #right{
-	background-color: pink;
+	background-color: blue;
 	border: 1px black solid;
 	float: left;
 	font-size: 20px;
