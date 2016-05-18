@@ -78,11 +78,11 @@ footer {
 #left_column {
 	background-color: violet;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 2%;
 	float: left;
 	height: 300px;
 	font-size: 25px;
-	width: 33%;
+	width: 31%;
 }
 #middle_column {
 	background-color: green;
