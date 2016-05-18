@@ -24,8 +24,8 @@ nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20 px;
-	font-size: 1.8em;
-  	float: left;
+	font-size: 1em;
+	height: 1em;
 }
 
 nav a {
@@ -73,7 +73,6 @@ footer {
 #three_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
-	padding: 20px;
 }
 
 #left_column {
@@ -109,4 +108,5 @@ footer {
 	clear: both;
 	height: 0;
 }
+
 * { text-rendering: optimizeLegibility; }
