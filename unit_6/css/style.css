@@ -82,7 +82,7 @@ footer {
 	border: 1px black solid;
 	padding: 1%;
 	float: left;
-	height: 300px;
+	height: 467px;
 	font-size: 25px;
 	width: 30%;
 }
@@ -99,6 +99,7 @@ footer {
 	float: left;
 	font-size: 20px;
 	text-align: center;
+	height: 467px;
 	width: 32%;
 }
 
