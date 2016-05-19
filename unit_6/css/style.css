@@ -61,6 +61,10 @@ a   {
 	font-family: 'Sanchez', serif;
 }
 
+a:hover {
+	background-color: #aaaaaa;
+}
+
 footer {
 	clear: both;
 	background-color: #FF957E;
