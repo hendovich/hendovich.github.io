@@ -46,6 +46,15 @@ p	{
 	padding: 1em;
 }
 
+article {
+	background-color: green;
+	float: left;
+	font-size: 25px;
+	padding: 2em;
+	width: 33.33%;
+	min-height: 24em;
+}
+
 ul	{
 	font-size: 18px;
 	text-align: left;
@@ -82,14 +91,7 @@ footer {
 #left_column {
 	background-color: violet;
 }
-article {
-	background-color: green;
-	float: left;
-	font-size: 25px;
-	padding: 2em;
-	width: 33.33%;
-	min-height: 24em;
-}
+
 #right_column {background: blue;}
 
 .clearfix:after {
