@@ -22,9 +22,11 @@ section {
 
 nav {
 	background-color: gainsboro;
+	border: 0.1em white solid;
 }
 
 nav a {
+	font-size: 1em;
 	text-decoration: none;
 	color: #000000;
 	display: inline-block;
@@ -64,7 +66,7 @@ ul	{
 }
 
 a   {
-	font-size: 1em;
+	font-size: 1.5em;
 	padding: 0 1em;
 	color: black;
 	font-family: 'Sanchez', serif;
@@ -78,6 +80,7 @@ a:hover {
 footer {
 	/*clear: both;*/
 	background-color: gainsboro;
+	border: 0.1em white solid;
 }
 
 img {
