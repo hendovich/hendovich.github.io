@@ -81,6 +81,7 @@ footer {
 	/*clear: both;*/
 	background-color: gainsboro;
 	border: 0.1em white solid;
+	text-align: center;
 }
 
 article img {
