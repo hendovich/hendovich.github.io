@@ -21,11 +21,11 @@ section {
 
 nav {
 	background-color: gainsboro;
-	border: 1.5em white solid;
+	border: 0.1em white solid;
 }
 
 nav a {
-	font-size: 1em;
+	font-size: 1.5em;
 	text-decoration: none;
 	color: #000000;
 	display: inline-block;
