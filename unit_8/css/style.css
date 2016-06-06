@@ -82,8 +82,13 @@ footer {
 	border: 0.1em white solid;
 }
 
-img {
+article img {
 	width: 75%;
+}
+
+footer img {
+	max-width: 10%;
+	padding: 1%
 }
 
 #slogan {
