@@ -5,19 +5,24 @@ body	{
 	background: rgba(243,255,28,1);
 	text-align: center;
 	font-family: 'Sanchez', serif;
+	font-size: 24px;
 }
 
 header {
-	background-color: #FFED74;
+	background-color: black;
+	color: white;
+	font-size: 1em;
 }
 
 section {
 	background-color: #FFE2B8;
+	font-size: 1em;
 	padding: 1%;
 }
 
 nav {
-	background-color: #E8C66A;
+	background-color: black;
+	color: white;
 	font-size: 1em;
 }
 
@@ -37,16 +42,18 @@ h1	{
 }
 
 p	{
-	font-size: 0.5em;
+	font-size: 0.75em;
+	color: white;
 	font-weight: 600;
 	font-family: 'Sanchez', serif;
 	padding: 1em;
 }
 
 article {
-	background-color: green;
+	background-color: black;
+	color: white;
 	float: left;
-	font-size: 0.5em;
+	font-size: 0.75em;
 	padding: 2em;
 	width: 33.33%;
 	min-height: 29em;
@@ -70,7 +77,7 @@ a:hover {
 }
 
 footer {
-	clear: both;
+	/*clear: both;*/
 	background-color: #FF957E;
 	padding: 1%;
 }
