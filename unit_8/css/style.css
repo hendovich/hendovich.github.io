@@ -80,6 +80,10 @@ footer {
 	background-color: gainsboro;
 }
 
+img {
+	width: 75%;
+}
+
 #slogan {
 	font-style: italic;
 	font-size: 0.75em;
