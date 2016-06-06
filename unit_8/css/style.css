@@ -27,10 +27,9 @@ nav {
 
 nav a {
 	text-decoration: none;
+	font-size: 0.5em;
 	color: #000000;
-	margin: 0 1.75em;
 	display: inline-block;
-	padding: 0 3em;
 }
 
 h1	{
@@ -85,7 +84,7 @@ footer {
 
 #slogan {
 	font-style: italic;
-	font-size: 1em;
+	font-size: 0.5em;
 	color: black;
 }
 
