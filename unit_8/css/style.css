@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Sanchez);
+* {margin:0;padding:0;box-sizing:border-box;}
+body	{
+	background: rgba(243,255,28,1);
+	text-align: center;
+	font-family: 'Sanchez', serif;
+}
+
+header {
+	background-color: #FFED74;
+}
+
+section {
+	background-color: #FFE2B8;
+	padding: 1%;
+}
+
+nav {
+	background-color: #E8C66A;
+	font-size: 1em;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000000;
+	margin: 0 1.75em;
+	display: inline-block;
+	padding: .5em;
+}
+
+h1	{
+	color: rgba(4,104,232,1);
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+}
+
+p	{
+	font-size: 0.5em;
+	font-weight: 600;
+	font-family: 'Sanchez', serif;
+	padding: 1em;
+}
+
+article {
+	background-color: green;
+	float: left;
+	font-size: 0.5em;
+	padding: 2em;
+	width: 33.33%;
+	min-height: 29em;
+}
+
+ul	{
+	font-size: 0.5em;
+	text-align: left;
+	font-family: 'Sanchez', serif;
+	list-style: inherit;
+	padding: 1em;
+}
+
+a   {
+	font-size: 0.5em;
+	font-family: 'Sanchez', serif;
+}
+
+a:hover {
+	background-color: #aaaaaa;
+}
+
+footer {
+	clear: both;
+	background-color: #FF957E;
+	padding: 1%;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#three_column {
+	background-color: rgba(243,255,28,1);
+}
+
+#left_column {
+	background-color: black;
+}
+
+#right_column {background: black;}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+* { text-rendering: optimizeLegibility; }
