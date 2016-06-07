@@ -141,7 +141,7 @@ footer img {
 	}
 
 	article img {
-		width: 25%;
+		width: 50%;
 	}
 
 	footer img {
@@ -158,6 +158,9 @@ footer img {
 	article img {
 		width: 75%;
 	}
+	footer img {
+		max-width: 20%;
+	}	
 }
 }
 
