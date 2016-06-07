@@ -123,6 +123,7 @@ footer img {
 	article {
 		float: none;
 		width: auto;
+		min-height: 1em;
 	}
 
 	nav a {
@@ -130,11 +131,18 @@ footer img {
 		text-align: center;
 		margin: 0;
 		padding: 0.5em;
+		font-size: 1.75em;
 	}
 
 	article img {
-		width: 50%;
+		width: 25%;
 	}
+
+	a:hover {
+	background-color: gainsboro;
+	color: black;
+	}
+}
 }
 
 * { text-rendering: optimizeLegibility; }
