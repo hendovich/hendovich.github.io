@@ -119,4 +119,11 @@ footer img {
 	height: 0;
 }
 
+@media screen only and (max-width: 1266px){
+	article{
+		float: none;
+	}
+}
+
 * { text-rendering: optimizeLegibility; }
+
