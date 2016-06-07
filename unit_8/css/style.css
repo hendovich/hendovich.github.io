@@ -131,6 +131,10 @@ footer img {
 		margin: 0;
 		padding: 0.5em;
 	}
+
+	article img {
+		width: 50%;
+	}
 }
 
 * { text-rendering: optimizeLegibility; }
