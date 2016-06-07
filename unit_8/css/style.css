@@ -22,6 +22,7 @@ section {
 nav {
 	background-color: gainsboro;
 	border: 0.1em white solid;
+	border-radius: 20px;
 }
 
 nav a {
