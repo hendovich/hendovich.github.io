@@ -119,7 +119,7 @@ footer img {
 	height: 0;
 }
 
-@media screen only and (max-width: 1160px){
+@media screen only and (min-width: 1160px){
 	article {
 		float: none;
 	}
