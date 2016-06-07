@@ -134,9 +134,17 @@ footer img {
 		font-size: 1.75em;
 	}
 
+	footer {
+		font-size: 1.75em;
+	}
+
 	article img {
 		width: 25%;
 	}
+
+	footer img {
+	max-width: 5%;
+	}	
 
 	a:hover {
 	background-color: gainsboro;
