@@ -136,6 +136,7 @@ footer img {
 
 	footer {
 		font-size: 1.75em;
+		padding: 0.25em;
 	}
 
 	article img {
@@ -143,7 +144,7 @@ footer img {
 	}
 
 	footer img {
-	max-width: 10%;
+		max-width: 10%;
 	}	
 
 	a:hover {
