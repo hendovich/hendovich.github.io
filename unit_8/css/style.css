@@ -122,7 +122,13 @@ footer img {
 @media screen only and (max-width: 1160px){
 	article {
 		float: none;
-		width: 100%;
+		width: auto;
+	}
+
+	nav a {
+		display: block;
+		text-align: center;
+		margin: 0;
 	}
 }
 
