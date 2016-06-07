@@ -154,7 +154,7 @@ footer img {
 	}
 }
 
-@media only screen and (max-width: 1160px) {
+@media only screen and (max-width: 320px) {
 	article img {
 		width: 75%;
 	}
