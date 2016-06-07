@@ -135,9 +135,10 @@ footer img {
 		font-size: 2em;
 	}
 
-	footer {
+	footer a {
 		display: block;
 		text-align: center;
+		vertical-align: 
 		margin: 0;
 		font-size: 1.75em;
 		padding: 0.5em;
