@@ -60,6 +60,14 @@ article {
 	border-radius: 20px;
 }
 
+div {
+	background: rgba(0,0,0,.8);
+	border-radius: 20px;
+	color: white;
+	text-align: center;
+	width: 33.3%
+}
+
 ul	{
 	font-size: 0.75em;
 	text-align: left;
