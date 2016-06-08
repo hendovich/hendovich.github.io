@@ -168,9 +168,6 @@ footer img {
 		font-size: 1.5em;
 	}
 
-	div {
-		width: 50%
-
 	#slogan {
 		font-size: .75em;
 	}
@@ -189,6 +186,10 @@ footer img {
 	}
 	footer img {
 		max-width: 20%;
+	}
+
+	#slogan {
+		font-size: .5em;
 	}	
 }
 }
