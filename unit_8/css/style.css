@@ -200,6 +200,11 @@ footer img {
 		max-width: 20%;
 	}
 
+	input{
+		padding: 35px;
+		font-size: 0.5em;
+	}
+
 	#slogan {
 		font-size: .5em;
 	}	
