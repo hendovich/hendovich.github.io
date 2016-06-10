@@ -182,6 +182,15 @@ footer img {
 	}
 }
 
+@media only screen and (max-width: 1060px){
+
+	#right_column {
+		position: absolute;
+		top: 34em;
+		min-height: 22em;
+	}
+}
+
 @media only screen and (max-width: 768px) {
 	
 	h1	{
