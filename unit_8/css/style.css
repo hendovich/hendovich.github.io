@@ -228,6 +228,12 @@ footer img {
 		font-size: .75em;
 	}
 
+	#right_column {
+		position: absolute;
+		top: 33em;
+		min-height: 20em;
+	}
+
 }
 
 @media only screen and (max-width: 320px) {
