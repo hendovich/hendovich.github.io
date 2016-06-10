@@ -211,7 +211,7 @@ footer img {
 @media only screen and (max-width: 845px){
 
 	article {
-		min-height: 500px;
+		min-height: 490px;
 	}
 
 	input{
@@ -222,7 +222,7 @@ footer img {
 	#right_column {
 		position: absolute;
 		top: 36em;
-		min-height: 19em;
+		min-height: 20em;
 	}
 }
 
@@ -248,9 +248,8 @@ footer img {
 	#right_column {
 		position: absolute;
 		top: 33em;
-		min-height: 19em;
+		min-height: 20em;
 	}
-
 }
 
 @media only screen and (max-width: 709px) {
