@@ -224,6 +224,10 @@ footer img {
 		top: 36em;
 		min-height: 20em;
 	}
+
+	#middle_column {
+		min-height: 0em;
+	}
 }
 
 @media only screen and (max-width: 769px) {
