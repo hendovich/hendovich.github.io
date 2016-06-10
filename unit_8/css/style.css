@@ -244,6 +244,11 @@ footer img {
 		min-height: 1em;
 	}
 
+	#right_column {
+		position: static;
+		min-height: 1em;
+	}
+
 }
 
 @media only screen and (max-width: 320px) {
