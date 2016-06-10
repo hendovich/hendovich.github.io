@@ -173,11 +173,11 @@ footer img {
 
 	#right_column {
 		position: absolute;
-		top: 850px;
+		top: 35em;
 	}
 
 	#middle_column {
-		min-height: 10em;
+		min-height: 41em;
 	}
 }
 
