@@ -259,6 +259,11 @@ footer img {
 		min-height: 520px;
 	}
 
+	input{
+		padding: 20px;
+		font-size: 0.5em;
+	}
+
 	#right_column {
 		position: absolute;
 		top: 34em;
