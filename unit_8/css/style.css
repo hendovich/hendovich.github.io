@@ -281,13 +281,22 @@ footer img {
 	}
 }
 
-@media only screen and (max-width: 320px) {
-	
+@media only screen and (max-width: 579px){
+
 	article {
 		float: none;
 		width: auto;
 		min-height: 1em;
 	}
+
+	#right_column {
+		position: static;
+		width: auto;
+		min-height: 1em;
+	}
+}
+
+@media only screen and (max-width: 320px) {
 
 	footer a {
 		display: block;
@@ -305,12 +314,6 @@ footer img {
 	#slogan {
 		font-size: .5em;
 	}	
-
-	#right_column {
-		position: static;
-		width: auto;
-		min-height: 1em;
-	}
 	
 }
 }
