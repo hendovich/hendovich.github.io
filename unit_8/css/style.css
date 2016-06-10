@@ -182,12 +182,12 @@ footer img {
 	}
 }
 
-@media only screen and (max-width: 1060px){
+@media only screen and (max-width: 1059px){
 
 	#right_column {
 		position: absolute;
-		top: 35em;
-		min-height: 21em;
+		top: 34em;
+		min-height: 22em;
 	}
 }
 
@@ -195,8 +195,8 @@ footer img {
 
 	#right_column {
 		position: absolute;
-		top: 34em;
-		min-height: 22em;
+		top: 35em;
+		min-height: 21em;
 	}
 }
 
