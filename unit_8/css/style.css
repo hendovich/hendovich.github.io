@@ -133,6 +133,12 @@ footer img {
 
 @media only screen and (max-width: 1160px){
 
+	article {
+		width: 46%;
+		margin: 1%;
+		min-height: 0px;
+	}
+
 	nav a {
 		display: block;
 		text-align: center;
