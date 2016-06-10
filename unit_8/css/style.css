@@ -250,6 +250,20 @@ footer img {
 
 }
 
+@media only screen and (max-width: 661px){
+
+	input{
+		padding: 25px;
+		font-size: 0.75em;
+	}
+
+	#right_column {
+		position: absolute;
+		top: 34em;
+		min-height: 19em;
+	}
+}
+
 @media only screen and (max-width: 320px) {
 	
 	article {
