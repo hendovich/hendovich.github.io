@@ -209,7 +209,7 @@ footer img {
 	}
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 769px) {
 	
 	h1	{
 		font-size: 1.5em;
@@ -226,6 +226,12 @@ footer img {
 
 	#slogan {
 		font-size: .75em;
+	}
+
+	#right_column {
+		position: absolute;
+		top: 37em;
+		min-height: 19em;
 	}
 
 }
