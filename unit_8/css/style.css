@@ -236,11 +236,11 @@ footer img {
 
 }
 
-@media only screen and (max-width: 769px) {
+@media only screen and (max-width: 709px) {
 
 	#right_column {
 		position: absolute;
-		top: 31em;
+		top: 33em;
 		min-height: 20em;
 	}
 
