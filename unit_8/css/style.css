@@ -200,6 +200,15 @@ footer img {
 	}
 }
 
+@media only screen and (max-width: 845px){
+
+	#right_column {
+		position: absolute;
+		top: 36em;
+		min-height: 20em;
+	}
+}
+
 @media only screen and (max-width: 768px) {
 	
 	h1	{
