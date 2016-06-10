@@ -288,6 +288,11 @@ footer img {
 		min-height: 1em;
 	}
 
+	input{
+		padding: 15px;
+		font-size: 0.5em;
+	}
+
 	#right_column {
 		position: static;
 		width: auto;
