@@ -210,6 +210,10 @@ footer img {
 
 @media only screen and (max-width: 845px){
 
+	article {
+		min-height: 500px;
+	}
+
 	input{
 		padding: 25px;
 		font-size: 0.75em;
