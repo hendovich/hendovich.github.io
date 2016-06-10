@@ -182,7 +182,16 @@ footer img {
 	}
 }
 
-@media only screen and (max-width: 1060px){
+@media only screen and (max-width: 1040px){
+
+	#right_column {
+		position: absolute;
+		top: 35em;
+		min-height: 21em;
+	}
+}
+
+@media only screen and (max-width: 1024px){
 
 	#right_column {
 		position: absolute;
