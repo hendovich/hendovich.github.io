@@ -180,6 +180,11 @@ footer img {
 		width: 50%
 	}
 
+	#wrapper {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
 	#slogan {
 		font-size: .75em;
 	}
