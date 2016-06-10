@@ -192,6 +192,11 @@ footer img {
 
 @media only screen and (max-width: 1030px){
 
+	input{
+		padding: 30px;
+		font-size: 1em;
+	}
+
 	#right_column {
 		position: absolute;
 		top: 35em;
@@ -200,11 +205,6 @@ footer img {
 }
 
 @media only screen and (max-width: 845px){
-
-	input{
-		padding: 30px;
-		font-size: 1em;
-	}
 
 	#right_column {
 		position: absolute;
