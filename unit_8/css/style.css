@@ -60,15 +60,6 @@ article {
 	border-radius: 20px;
 }
 
-div {
-	display: inline-block;
-	background: rgba(0,0,0,.8);
-	border-radius: 20px;
-	margin: 0.5em;
-	padding-top: 0.6em;
-	width: 33.3%
-}
-
 ul	{
 	font-size: 0.75em;
 	text-align: left;
@@ -104,6 +95,15 @@ article img {
 
 footer img {
 	max-width: 3%;
+}
+
+#title {
+	display: inline-block;
+	background: rgba(0,0,0,.8);
+	border-radius: 20px;
+	margin: 0.5em;
+	padding-top: 0.6em;
+	width: 33.3%
 }
 
 #slogan {
@@ -176,7 +176,7 @@ footer img {
 		font-size: 1.5em;
 	}
 
-	div {
+	#title {
 		width: 50%
 	}
 
@@ -215,6 +215,4 @@ footer img {
 	}	
 }
 }
-
-* { text-rendering: optimizeLegibility; }
 
