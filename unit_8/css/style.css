@@ -246,6 +246,7 @@ footer img {
 
 	#right_column {
 		position: static;
+		width: auto;
 		min-height: 1em;
 	}
 
