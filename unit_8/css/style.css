@@ -159,6 +159,11 @@ footer img {
 		max-width: 5%;
 	}	
 
+	input{
+		padding: 35px;
+	}
+
+
 	a:hover {
 		background-color: gainsboro;
 		color: black;
