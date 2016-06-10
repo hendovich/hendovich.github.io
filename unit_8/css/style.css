@@ -160,11 +160,6 @@ footer img {
 		max-width: 5%;
 	}	
 
-	input{
-		padding: 30px;
-		font-size: 1em;
-	}
-
 	a:hover {
 		background-color: gainsboro;
 		color: black;
@@ -213,6 +208,11 @@ footer img {
 	
 	h1	{
 		font-size: 1.5em;
+	}
+
+	input{
+		padding: 30px;
+		font-size: 1em;
 	}
 
 	#title {
