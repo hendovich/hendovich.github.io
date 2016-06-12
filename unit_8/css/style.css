@@ -232,6 +232,10 @@ footer img {
 		font-size: 1.5em;
 	}
 
+	nav {
+		display: none;
+	}
+
 	#title {
 		width: 50%
 	}
