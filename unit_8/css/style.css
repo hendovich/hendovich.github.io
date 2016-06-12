@@ -48,6 +48,17 @@ p	{
 	padding: 1em;
 }
 
+label {
+    display:none;
+    width:3em;
+    background-color: black;
+    padding:20px;
+}
+
+input {
+    display:none;
+}
+
 article {
 	background: rgba(0,0,0,.8);
 	color: white;
@@ -82,7 +93,6 @@ a:hover {
 }
 
 footer {
-	/*clear: both;*/
 	background-color: gainsboro;
 	border: 0.1em white solid;
 	vertical-align: middle;
@@ -121,6 +131,11 @@ footer img {
 #left_column {}
 
 #right_column {}
+
+#hamburger {
+	color: white;
+	background-color: black;
+}
 
 .clearfix:after {
 	visibility: hidden;
@@ -236,9 +251,26 @@ footer img {
 		display: none;
 	}
 
+	 label{
+        display:block;
+    }
+
 	#title {
-		text-align: left;
 		width: 50%
+	}
+
+	#menu:checked + nav{
+        left:0;
+    }
+
+	#hamburger {
+		position:absolute;
+        width:200px;
+        left:-200px;
+        -webkit-transition: left ease .5s;
+        -moz-transition: left ease .5s;
+        -o-transition: left ease .5s;
+        transition: left ease .5s;
 	}
 
 	#wrapper {
