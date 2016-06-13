@@ -247,7 +247,7 @@ footer img {
 
 	#right_column {
 		position: absolute;
-		top: 36em;
+		top: 35em;
 		min-height: 20em;
 	}
 }
@@ -264,13 +264,6 @@ footer img {
 
 	label{
         display:block;
-    }
-
-    a div {
-    	color: black;
-    	text-decoration: none;
-    	width: 7em;
-
     }
 
 	#title {
