@@ -265,7 +265,7 @@ footer img {
 
 	#title {
 		float: right;
-		margin: 1.5em;
+		margin-bottom: 1em;
 		width: 70%
 	}
 
@@ -277,6 +277,7 @@ footer img {
 		float: right;
 		display: block;
 		position:absolute;
+        top: 0px;
         width:200px;
         left:-400px;
         -webkit-transition: left ease .5s;
