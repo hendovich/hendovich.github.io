@@ -139,7 +139,8 @@ footer img {
 #hamburger {
 	display: none;
 	color: white;
-	padding: 1.5em;
+	padding:.5em;
+	font-size: 2em;
 	background-color: gainsboro;
 	border-radius: 20px;
 	border: 0.25em white solid;
