@@ -55,10 +55,6 @@ label {
     padding:20px;
 }
 
-input {
-    display:none;
-}
-
 article {
 	background: rgba(0,0,0,.8);
 	color: white;
@@ -144,6 +140,10 @@ footer img {
 	background-color: gainsboro;
 	border-radius: 20px;
 	border: 0.25em white solid;
+}
+
+#menu {
+	display: none;
 }
 
 .clearfix:after {
