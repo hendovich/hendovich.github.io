@@ -83,7 +83,7 @@ a nav,footer{
 	font-family: 'Sanchez', serif;
 }
 
-a #hamburger {
+a div {
 	font-size: 1.5em;
 	text-decoration: none;
 	color: black;
