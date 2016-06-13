@@ -266,6 +266,13 @@ footer img {
         display:block;
     }
 
+    a div {
+    	color: black;
+    	text-decoration: none;
+    	width: 7em;
+
+    }
+
 	#title {
 		float: right;
 		margin-bottom: 1em;
@@ -287,8 +294,6 @@ footer img {
         -moz-transition: left ease .5s;
         -o-transition: left ease .5s;
         transition: left ease .5s;
-        text-decoration: none;
-        color: black;
 	}
 
 	#wrapper {
