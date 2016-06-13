@@ -264,10 +264,6 @@ footer img {
         display:block;
     }
 
-    a {
-    	padding: 1em;
-    }
-
 	#title {
 		float: right;
 		margin-bottom: 1em;
@@ -282,7 +278,8 @@ footer img {
 		float: right;
 		display: block;
 		position:absolute;
-        width:200px;
+        width:5em;
+        height: 6em;
         left:-400px;
         -webkit-transition: left ease .5s;
         -moz-transition: left ease .5s;
