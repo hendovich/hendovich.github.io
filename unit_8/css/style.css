@@ -264,6 +264,10 @@ footer img {
         display:block;
     }
 
+    a {
+    	padding: 0.5em;
+    }
+
 	#title {
 		float: right;
 		margin-bottom: 1em;
