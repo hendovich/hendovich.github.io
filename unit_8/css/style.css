@@ -266,7 +266,7 @@ footer img {
 	#title {
 		float: right;
 		margin-bottom: 1em;
-		width: 70%
+		width: 80%
 	}
 
 	#menu:checked + #hamburger {
@@ -277,7 +277,6 @@ footer img {
 		float: right;
 		display: block;
 		position:absolute;
-        top: 0px;
         width:200px;
         left:-400px;
         -webkit-transition: left ease .5s;
