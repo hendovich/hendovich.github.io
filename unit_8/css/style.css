@@ -83,13 +83,6 @@ a nav,footer{
 	font-family: 'Sanchez', serif;
 }
 
-a div {
-	font-size: 1.5em;
-	text-decoration: none;
-	color: black;
-	font-family: 'Sanchez', serif;
-}
-
 a:hover {
 	background-color: black;
 	color: white;
@@ -182,6 +175,7 @@ footer img {
 		font-size: 1.5em;
 		padding: 0.5em;
 		text-decoration: none;
+		color: black;
 	}
 
 	article img {
@@ -293,6 +287,8 @@ footer img {
         -moz-transition: left ease .5s;
         -o-transition: left ease .5s;
         transition: left ease .5s;
+        text-decoration: none;
+        color: black;
 	}
 
 	#wrapper {
