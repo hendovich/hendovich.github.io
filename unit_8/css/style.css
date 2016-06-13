@@ -51,7 +51,7 @@ p	{
 label {
     display:none;
     width:3em;
-    background-color: black;
+    background-color: gainsboro;
     padding:20px;
 }
 
@@ -101,6 +101,10 @@ footer {
 article img {
 	width: 75%;
 	text-align: center;
+}
+
+label img {
+	width: 1em;
 }
 
 footer img {
@@ -251,7 +255,7 @@ footer img {
 		display: none;
 	}
 
-	 label{
+	label{
         display:block;
     }
 
@@ -259,14 +263,14 @@ footer img {
 		width: 50%
 	}
 
-	#menu:checked + nav{
+	#menu:checked + #hamburger {
         left:0;
     }
 
 	#hamburger {
 		position:absolute;
         width:200px;
-        left:-200px;
+        left:-400px;
         -webkit-transition: left ease .5s;
         -moz-transition: left ease .5s;
         -o-transition: left ease .5s;
