@@ -136,7 +136,7 @@ footer img {
 	display: none;
 	color: white;
 	padding:.5em;
-	font-size: 2em;
+	font-size: 1.5em;
 	background-color: gainsboro;
 	border-radius: 20px;
 	border: 0.25em white solid;
@@ -185,8 +185,8 @@ footer img {
 	}	
 
 	a:hover {
-		background-color: gainsboro;
-		color: black;
+		background-color: black;
+		color: white;
 	}
 
 	#right_column {
