@@ -278,8 +278,9 @@ footer img {
 		float: right;
 		display: block;
 		position:absolute;
-        width:8em;
-        height: 8em;
+		text-align: center;
+        width:7em;
+        height: 6em;
         left:-400px;
         -webkit-transition: left ease .5s;
         -moz-transition: left ease .5s;
