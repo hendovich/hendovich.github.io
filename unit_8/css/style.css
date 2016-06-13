@@ -139,6 +139,7 @@ footer img {
 #hamburger {
 	display: none;
 	color: white;
+	padding: 0.5em;
 	background-color: gainsboro;
 	border-radius: 20px;
 	border: 0.25em white solid;
@@ -264,7 +265,8 @@ footer img {
 
 	#title {
 		float: right;
-		width: 50%
+		margin: 1.5em;
+		width: 70%
 	}
 
 	#menu:checked + #hamburger {
