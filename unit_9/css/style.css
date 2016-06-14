@@ -372,6 +372,12 @@ footer img {
 		max-width: 20%;
 	}
 
+	#title {
+		float: right;
+		margin-bottom: 1em;
+		width: 80%
+	}
+
 	#slogan {
 		font-size: .5em;
 	}	
