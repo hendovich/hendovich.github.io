@@ -347,8 +347,8 @@ footer img {
 	}
 
 	#title {
-		margin-bottom: 1em;
-		margin-right: 0.5em;
+		margin-bottom: 1.25em;
+		margin-right: 0.75em;
 	}
 
 	#right_column {
@@ -379,6 +379,7 @@ footer img {
 
 	#title {
 		margin-bottom: 1em;
+		margin-right: 0.5em;
 		width: 80%
 	}
 
